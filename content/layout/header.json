@@ -9,10 +9,6 @@
       {
         "title": "Esta loja é um PWA",
         "link": "esta-loja-e-um-progressive-web-app"
-      },
-      {
-        "title": "Sobre nós",
-        "link": "sobre-nos"
       }
     ],
     "phone_wpp": true,
