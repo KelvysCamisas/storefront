@@ -5,12 +5,7 @@
     "call_to_action_link": "promoção"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Esta loja é um PWA",
-        "link": "esta-loja-e-um-progressive-web-app"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   }
