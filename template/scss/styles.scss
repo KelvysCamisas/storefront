@@ -64,9 +64,7 @@ body {
     color: #fff!important;
 }
 
-.ecom-navbar__header {
+.ecom-navbar__header.container-fluid.bg-light {
     height: 120px;
-}
-.ecom-navbar__header .bg-light {
     background-color: #000!important;
 }
