@@ -5,7 +5,11 @@
     "call_to_action_link": ""
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "faleconosco@kelvys.com.br"
+      }
+    ],
     "phone_wpp": true,
     "socials": true
   }
