@@ -7,7 +7,8 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "faleconosco@kelvys.com.br"
+        "title": "",
+        "link": "faleconosco@kelvys.com.br"
       }
     ],
     "phone_wpp": true,
