@@ -69,19 +69,10 @@ body {
     background-color: #000!important;
 }
 nav.ecom-navbar__nav.shadow.container-fluid.st-block-primary.font-weight-bold {
-  .st-block-primary {
+  .st-block-primary, .st-block-primary\:active:active, .st-block-primary\:active:focus, .st-block-primary\:hover:hover {
     background-color: #fff!important;
     color: #000!important;
-    height: 60px;
+    height: 90px;
     align-items: center;
   }
-.font-weight-bold {
-    font-weight: 600!important;
-}
-.ecom-navbar__nav {
-   background: #fff !important;
-}
-.ecom-navbar__title img {
-    max-height: 6.25rem;
-}
-}
+
