@@ -25,3 +25,11 @@ if ($main && $main.dataset.import) {
     .html();jQuery('#barraTopo .conteiner .row-fluid')
     .html('<div class="ecom-navbar__nav.shadow.container-fluid.st-block-primary.font-weight-bold">'+content+'</div>') 
   } }); </script>
+//Fim
+
+//Chat WhatsApp
+$('body._ecom-store').append('<a href="https://web.whatsapp.com/send?1=pt_BR&phone=554491808130" target="_blank" id="ws_icon_chat" title="Atendimento via WhatsApp"><img src="https://cdn.e-com.club/s/www.kelvys.com.br/uploads/whatsapp_kelvys.png"></a>');
+if($(window).width() < 480) {
+$("#ws_icon_chat").attr("href", "https://api.whatsapp.com/send?1=pt_BR&phone=554491808130");
+}
+//Fim
